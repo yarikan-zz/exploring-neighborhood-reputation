@@ -1,4 +1,4 @@
-# Exploring Public Sentiments of Chicago Neighborhoods
+# CHIsentiment: Exploring Public Sentiments of Chicago Neighborhoods
 
 What is the relationship between the reputation and the characteristics of a neighborhood? Below I explore this question in the context of Chicago, IL, using social media (Twitter) data and a dataset of socioeconomic data per neighborhood available from the City of Chicago data portal (https://data.cityofchicago.org). For this analysis, a "neighborhood" is defined as one of Chicago's 77 community areas, which are officially recognized by the City of Chicago. I model neighborhood reputation as an index summarizing the sentiment of tweets mentioning a given neighborhood (more details provided as I work my way through the question).
 
