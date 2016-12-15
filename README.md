@@ -11,4 +11,4 @@ I proceed in the following steps:
     - Put socioeconomic and Twitter data per neighborhood into one table
 * Develop descriptive statistics
 * Develop infenrential statistics
-* Observations -- long story short, I do not find anything interesting in this round, and there's always room for improvement
+* Observations
