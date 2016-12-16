@@ -11,4 +11,4 @@ In the analysis_notebook.ipynb file, I proceed in the following steps:
     - Put socioeconomic and Twitter data per neighborhood into one table
 * Develop descriptive statistics
 * Develop infenrential statistics
-* Observations
+* Summary, Notes, Observations
